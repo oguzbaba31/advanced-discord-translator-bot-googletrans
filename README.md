@@ -10,7 +10,7 @@ Gönderilen metnin çevirisini hedef dile tercüme eder.
 Çok uzun metinler için get_long_text_translation fonksiyonu kullanır.
 Bu kod, aynı zamanda bazı dışa bağımlılıkları kullanır, bunlar:
 
-os: İşletim sistemi ile etkileşim sağlar.
+os: İşletim sistemi ile etkileşim sağlar.<br>
 re: Düzenli ifadelerle metin işleme için kullanılır.
 asyncio: Asenkron işlemler için kullanılır.
 discord: Discord API'leri için kullanılır.

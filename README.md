@@ -43,3 +43,7 @@ difflib: Dize benzerliği bulmak için kullanılır.<br>
 dotenv: Kimlik doğrulama bilgilerini çevre değişkenlerinden yüklemek için kullanılır.<br>
 io: Giriş/Çıkış işlemleri için kullanılır.<br>
 PIL: Resim dosyaları için işlevselliğe sahip olan Python resim kütüphanesi.
+
+# Known Bugs
+![image](https://user-images.githubusercontent.com/118441956/230271743-6dfaa6c4-b43a-47da-85dc-897c72f46b7b.png)
+

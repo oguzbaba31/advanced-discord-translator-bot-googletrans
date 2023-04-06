@@ -1,5 +1,5 @@
 # discord-tr-translator-bot-googletrans
-cw's discord tr translator bot with googletrans free api
+cw's discord translator bot with googletrans free api
 
 This code provides a translation function for text or attached files to a target language using a predefined command in Discord servers. Users can use the command in the format !translate [target_language] [text]. When typing the text that needs to be translated into the target language, if they are using multiple words, they should leave spaces between them. This command is written using the discord.py library and performs the following functions:<br><br>
 

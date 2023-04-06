@@ -21,7 +21,7 @@ dotenv: Used to load authentication information from environment variables.<br>
 io: Used for input/output operations.<br>
 PIL: Python image library with functionality for image files.<br>
 
-
+<br><br><br>
 
 Bu kod, Discord sunucularında, önceden belirlenmiş bir komut kullanarak, hedef dile metin veya ek dosyalar çevirme işlevi sağlar. Kullanıcılar komutu !translate [hedef_dil] [metin] şeklinde kullanabilirler. Hedef dile çevrilmesi gereken metni yazarken, birden fazla kelime kullanıyorsa, aralarına boşluk bırakmalıdırlar. Bu komut, discord.py kütüphanesi kullanarak yazılmıştır ve aşağıdaki işlevleri yerine getirir:<br><br>
 
